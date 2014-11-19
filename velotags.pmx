@@ -1,0 +1,10 @@
+---
+name: Velotags
+description: ''
+keywords: ''
+type: NodeJS
+documentation: ''
+images:
+- name: dockerfile_nodejs_latest
+  source: dockerfile/nodejs:latest
+  type: Default
